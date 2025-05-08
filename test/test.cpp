@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    cout << "Hello World";
+    cout << "Hello World!";
 }
 
 // install MinGW on your system
